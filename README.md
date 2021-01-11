@@ -1,2 +1,12 @@
-# steps
-This is the Steps web and electron application used for Fasa's Earthdawn. 
+# Steps
+An interactive character sheet for Earthdawn, 4th edition
+Steps Version 1β08
+
+[Release version 1β08 Download and Install](https://github.com/travelingwizard/steps/releases/tag/0.08)
+ 
+## Made by Lars Gottlieb, 2018-20
+## Repository and desktop version compiled by Matthew Ward
+
+This is a piece of fan work
+Care has been taken to make sure the players need the books to play
+This project is in no way intended as a challenge to the creators [FASA Games](https://fasagames.com/) copyright. 
